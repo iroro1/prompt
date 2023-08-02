@@ -1,0 +1,14 @@
+STARTING POINT
+yarn add bcrypt mongodb mongoose next-auth
+
+in app, add components,styles,utils and models folders
+add .env to root
+
+Generate random Hex string on MAC/ on windows run with an online openssl terminal
+openssl rand -base64 32
+
+
+ADD
+* Implement search = prompt/tag/username *
+* Implement click on tag *
+* implement view other profiles = . profile/id
